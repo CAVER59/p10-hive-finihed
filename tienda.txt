@@ -1,0 +1,11 @@
+IdTienda|Sucursal|Distrito|Tipo|DistritoTipo
+58|SUCURSAL_LM|La_Molina|Hiper|La_Molina,Hiper
+50|SUCURSAL_CH|Chorrillos|Super|Chorrillos,Super
+69|SUCURSAL_CI|Cieneguilla|Super|Cieneguilla,Super
+49|SUCURSAL_BA|Barranco|Super|Barranco,Super
+74|SUCURSAL_LU|Lurin|Super|Lurin,Super
+52|SUCURSAL_SB|San_Borja|Hiper|San_Borja,Hiper
+54|SUCURSAL_MI|Miraflores|Hiper|Miraflores,Hiper
+59|SUCURSAL_SM|San_Martin|Hiper|San_Martin,Hiper
+62|SUCURSAL_CO|Comas|Hiper|Comas,Hiper
+70|SUCURSAL_AN|Ancon|Hiper|Ancon,Hiper
